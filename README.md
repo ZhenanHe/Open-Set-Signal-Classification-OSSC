@@ -1,4 +1,4 @@
-# Code for our paper: Open Set Recognition Through Deep Neural Network Uncertainty: Does Out-of-Distribution Detection Require Generative Classifiers?  
+# Open Set Classification for Signal Diagnosis of Machinery Sensor in Industrial Environment  
 
 This repository provides implementations for our [paper](https://ieeexplore.ieee.org/document/9763052/):
 

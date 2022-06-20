@@ -67,3 +67,7 @@ Bibtex:
          year={2022},
          doi={10.1109/TII.2022.3169459}}
 ```
+
+## Acknowledgement
+
+Our work is inspired by Martin Mundt's [work](https://github.com/MrtnMndt/Deep_Openset_Recognition_through_Uncertainty). We would like to express our sincere gratitude
